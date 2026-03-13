@@ -19,7 +19,7 @@ header h1 {
 }
 
 nav a:hover {
-  text-decoration: underline
+  text-decoration: underline;
 } 
 
 main {
@@ -28,6 +28,7 @@ main {
   height: auto;
   display: block;
   margin: 20px 0;
+{
 
 footer {
   background-color: #915F6D
@@ -37,13 +38,14 @@ footer {
   position: fixed;
   bottom: 0;
   width: 100%;
+}
 
 p {
   font-size: 1.1em;
 }
 
   a {
-    color:#B57281
+    color:#B57281;
     text-decoration: none;
   }
 
@@ -59,4 +61,5 @@ p {
   main a [href="lelanisbeautyboutique@gmail.com:"] {
     color: #915F6D;
     font-weight: bold;
+  }
     
