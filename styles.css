@@ -1,1 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #333
+  background-color: #FFCFF1
+  margin : 0;
+  padding: 0;
+  line-height: 1.6;
 
+header {
+  background-color: #B57281
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav a:hover {
+  text-decoration: underline
+} 
+
+main {
+  padding: 20px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px 0;
+
+footer {
+  background-color: #915F6D
+  color: white;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+p {
+  font-size: 1.1em;
+}
+
+  a {
+    color:#B57281
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration:underline;
+  }
+
+  img {
+    border: 5px solid #B57281;
+    border-radius: 10px;
+  }
+
+  main a [href="lelani`sbeautyboutique@gmail.com:"] {
+    color: #915F6D;
+    font-weight: bold;
+    
